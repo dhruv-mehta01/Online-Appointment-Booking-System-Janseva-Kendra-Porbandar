@@ -1,6 +1,6 @@
 # Online Appointment Booking System – Janseva Kendra, Porbandar
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Online Appointment Booking System** is a Java-based application designed to simplify the appointment scheduling process for services provided at **Janseva Kendra, Porbandar**.
 
@@ -10,7 +10,7 @@ This project was developed using **Java and JDBC** to demonstrate database conne
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Reduce manual appointment booking work
 * Provide a simple digital appointment system
@@ -19,7 +19,7 @@ This project was developed using **Java and JDBC** to demonstrate database conne
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Java
 * JDBC (Java Database Connectivity)
@@ -28,7 +28,7 @@ This project was developed using **Java and JDBC** to demonstrate database conne
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * User appointment booking system
 * Database storage for appointment records
@@ -38,7 +38,7 @@ This project was developed using **Java and JDBC** to demonstrate database conne
 
 ---
 
-## 🧠 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I learned:
 
@@ -49,7 +49,7 @@ Through this project, I learned:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add **login and authentication system**
 * Create a **web-based interface**
@@ -58,7 +58,7 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Dhruv Mehta**
 B.Tech Computer Science Student, 
